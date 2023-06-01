@@ -1,0 +1,12 @@
+{
+  "port": "8000",
+  "name": "Jeanne",
+  "description": "Jeanne is the only Music Discord bot you'll ever need. It has powerful latest features which can make your discord server shine.",
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=946708747521257482&permissions=414476208192&scope=applications.commands%20bot",
+  "support": "https://discord.gg/EXHhWpb5ps",
+  "pfp": "https://i.imgur.com/pQ6jBhD.jpg",
+  "feature1": "Music, It can play different kind of music from different platforms like spotify, apple, youtube, etc...",
+  "feature2": "DJ Mode, It has command to set your DJ role for your own server and give it to who you want and make them play songs.",
+  "feature3": "Filters, It contain a lot of filters that you might find interesting and fun. (Vaporwave, Bass, Tremolo, nightcore, and more...) Discover them yourself and invite Jeanne now!",
+  "feature4": "Playlists, It is never been that easy to use; Create your own playlists that are saved on the bot. You can use them anytime or share them with your friends /help or /playlist to learn more."
+}
